@@ -74,7 +74,7 @@ The dataset contains information about bank customers including:
 
 
 
-!\[Dashboard](images/Churn\_Analysis\_PowerBI.png)
+![Dashboard](images/Churn_Analysis_PowerBI.png)
 
 
 
