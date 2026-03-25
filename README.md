@@ -117,7 +117,7 @@ The dataset contains information about bank customers including:
 
 The analysis shows that behavioral factors, such as active membership, influence churn more than demographics.  
 
-These insights can guide targeted marketing and retention strategies for the bank.
+These insights can guide targeted marketing and retention strategies for the bank. 
 
 
 
